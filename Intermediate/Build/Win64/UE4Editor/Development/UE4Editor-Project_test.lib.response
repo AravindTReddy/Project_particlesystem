@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Project_test.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Aravind T Reddy\Documents\Unreal Projects\Project_test\Intermediate\Build\Win64\UE4Editor\Development\Project_test\Project_test.cpp.obj"
+"C:\Users\Aravind T Reddy\Documents\Unreal Projects\Project_test\Intermediate\Build\Win64\UE4Editor\Development\Project_test\Project_testGameModeBase.cpp.obj"
+"C:\Users\Aravind T Reddy\Documents\Unreal Projects\Project_test\Intermediate\Build\Win64\UE4Editor\Development\Project_test\Project_test.init.gen.cpp.obj"
+"C:\Users\Aravind T Reddy\Documents\Unreal Projects\Project_test\Intermediate\Build\Win64\UE4Editor\Development\Project_test\Project_testGameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Project_test\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Aravind T Reddy\Documents\Unreal Projects\Project_test\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Project_test.lib"
